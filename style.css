@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 120px;
+     background-color:#39E6F4;
+}
+
+.head-top{
+    height: 38px;
+    background-color: #39E6F4;
+    color: white;
+    font-weight: 500;
+}
+
+.head-top ul li i{
+    font-size: 25px;
+}
+
+.head-bot{
+    height: 62px;
+    background-color: #000;
+    color: white;
+}
+
+.head-bot span{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ref{
+     /* height: 500px; */
+    background-color: #38E3F2;
+}
+
+/* right hand side  */
+.posio{
+    position: relative;
+    top: 80px;
+}
+
+.posio h5{
+    color: black;
+    font-size: 40px;
+}
+
+.posio h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.grande{
+    /* height: 200px; */
+    background-color: white;
+    padding: 30px;
+}
+
+.pon{
+    height: 485px;
+    /* background-color: red; */
+  
+}
+
+.prico li i{
+    font-size: 40px;
+}
+.license{
+    /* height: 200px; */
+    background-color: orange;
+}
+
+.palest{
+    height: 500px;
+    background-color:black;
+    color: white;
+}
+
+.palest h2{
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.drog{
+    height: 500px;
+    width: 100%;
+}
+
+.jumbon{
+    background-image: url('./drug.jpg');
+    background-image: cover;
+    background-size: contain;
+    width: 100%;
+}
+
+.braz{
+    /* height: 200px; */
+    /* background-color: red; */
+}
+
+.mybox{
+    /* height: 419px; */
+    background-color:white;
+    border: 1px solid black;
+}
+
+.mybox ul li i {
+    color: #ffc107;
+}
