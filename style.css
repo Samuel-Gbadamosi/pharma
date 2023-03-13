@@ -147,3 +147,15 @@ header{
     color: white;
     padding-top: 30px;
 }
+
+.pos{
+    /* font-size: 1.25rem; */
+    color: darkslateblue;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+.reserved h2{
+    font-weight: 700;
+    color: aqua;
+}

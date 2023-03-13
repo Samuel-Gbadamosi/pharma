@@ -1,5 +1,5 @@
 <?php 
-
+//to test for a receipt
 
 class User {
 
