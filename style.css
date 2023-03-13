@@ -84,10 +84,10 @@ header{
     font-weight: 700;
 }
 
-.drog{
-    height: 500px;
+/* .drog{
+     height: 500px;
     width: 100%;
-}
+} */
 
 .jumbon{
     background-image: url('./drug.jpg');
@@ -110,4 +110,40 @@ header{
 
 .mybox ul li i {
     color: #ffc107;
+}
+
+.vitamin{
+    /* height: 500px; */
+    background-color: white;
+}
+
+.vitamin h2{
+    color: #000;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.percy{
+     height: 450px;
+    background-image: url('./ops.jpg');
+    background-repeat: no-repeat;
+}
+.jeg{
+    position: relative;
+    top: 164px;
+    font-size: larger;
+    left: 60px;
+    color: white;
+}
+
+.jeg h2{
+    font-weight: 700;
+    color: white;
+}
+
+.reserved{
+    height: 250px;
+    background-color:black;
+    color: white;
+    padding-top: 30px;
 }
