@@ -16,3 +16,4 @@ var myTimeOut;
  function myStopFunction(){
      clearTimeout(myTimeOut);
  }
+
