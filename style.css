@@ -93,7 +93,8 @@ header{
     background-image: url('./drug.jpg');
     background-image: cover;
     background-size: contain;
-    width: 100%;
+    background-repeat: round;
+    /* width: 100%; */
 }
 
 .braz{
